@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Marwan Ahmed
 
-<!--
-**Marwan-Ahmed-Eid/Marwan-Ahmed-Eid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer | React Enthusiast  
+🚀 Passionate about building modern, responsive web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🎓 I’m currently focusing on Front-End Development  
+- ⚛️ Working with React.js to build interactive UIs  
+- 🎯 Improving my problem-solving and coding skills daily   
+
+---
+
+## 🛠️ Tech Stack
+
+### 💡 Languages
+- HTML
+- CSS
+- JavaScript (ES6+)
+
+### ⚛️ Frameworks & Libraries
+- React.js
+
+### 🎨 Styling
+- CSS
+- Responsive Design
+
+
+---
+
+## 📂 Projects
+
+### 📝 To-Do App
+- Add / Edit / Delete tasks  
+- Mark tasks as done  
+- LocalStorage support  
+
+🔗 *(حط لينك المشروع هنا)*  
+
+---
+
+## 📫 Contact Me
+
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/marwan-ahmed-8484313ba/
+
+---
+
+## 🚀 Goals
+
+- 📈 Master React & build real-world projects  
+- 🌍 Work as a professional Front-End Developer  
+- 💡 Learn advanced concepts (Next.js, APIs, Performance)
+
+---
+
+## ⚡ Fun Fact
+
+> "Small steps daily = Big results 🚀"
