@@ -41,7 +41,7 @@
 ### 🎮 Tic-Tac-Toe (X-O Game)
 * Interactive 2-player game logic
 * Automatic winner detection
-* Scoreboard and Reset functionality
+* Reset functionality
 * 🔗 [Live Demo](https://comfy-hotteok-556d8c.netlify.app/) 
 
 ---
