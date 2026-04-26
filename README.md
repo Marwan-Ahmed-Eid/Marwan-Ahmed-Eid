@@ -42,7 +42,7 @@
 * Interactive 2-player game logic
 * Automatic winner detection
 * Reset functionality
-* 🔗 [Live Demo](https://comfy-hotteok-556d8c.netlify.app/) 
+* 🔗 [Live Demo](https://timely-torrone-db611a.netlify.app/) 
 
 ---
 
