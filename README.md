@@ -30,14 +30,19 @@
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
 ### 📝 To-Do App
-- Add / Edit / Delete tasks  
-- Mark tasks as done  
-- LocalStorage support  
+* Add / Edit / Delete tasks
+* Mark tasks as done
+* LocalStorage support
+* 🔗 [Live Demo](https://69ce0bf00fe06673b3180523--sunny-kashata-a55d00.netlify.app/)
 
-🔗https://69ce0bf00fe06673b3180523--sunny-kashata-a55d00.netlify.app/  
+### 🎮 Tic-Tac-Toe (X-O Game)
+* Interactive 2-player game logic
+* Automatic winner detection
+* Scoreboard and Reset functionality
+* 🔗 [Live Demo](https://comfy-hotteok-556d8c.netlify.app/) 
 
 ---
 
